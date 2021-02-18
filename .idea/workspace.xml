@@ -46,16 +46,7 @@
       <recent name="C:\Users\Piyush.Fale\go\src\awesomeProject\HelloWorld" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build variabletest.go">
-    <configuration name="go build Sqrt.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="awesomeProject" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/HelloWorld/Sqrt.go" />
-      <package value="awesomeProject" />
-      <directory value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Go Build.go build typeChange.go">
     <configuration name="go build add.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="awesomeProject" />
       <working_directory value="$PROJECT_DIR$" />
@@ -65,12 +56,12 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build awesomeProject/HelloWorld" type="GoApplicationRunConfiguration" factoryName="Go Application" singleton="false" temporary="true" nameIsGenerated="true">
+    <configuration name="go build awesomeProject" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="awesomeProject" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/HelloWorld/Sqrt.go" />
-      <package value="awesomeProject/HelloWorld" />
+      <filePath value="$PROJECT_DIR$/array.go" />
+      <package value="awesomeProject" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -79,6 +70,15 @@
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <filePath value="$PROJECT_DIR$/Swap2String/swap.go" />
+      <package value="awesomeProject" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build typeChange.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="awesomeProject" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/changeTypeofVariable/typeChange.go" />
       <package value="awesomeProject" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
@@ -94,11 +94,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build typeChange.go" />
+        <item itemvalue="Go Build.go build awesomeProject" />
         <item itemvalue="Go Build.go build variabletest.go" />
         <item itemvalue="Go Build.go build swap.go" />
         <item itemvalue="Go Build.go build add.go" />
-        <item itemvalue="Go Build.go build Sqrt.go" />
-        <item itemvalue="Go Build.go build awesomeProject/HelloWorld" />
       </list>
     </recent_temporary>
   </component>

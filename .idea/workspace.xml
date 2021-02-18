@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="014ac707-923a-4597-aff9-a5169cffe3a6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Defer/DeferEg.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SwitchEg/switchEx.go" beforeDir="false" afterPath="$PROJECT_DIR$/SwitchEg/switchEx.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sliceing/sliceing.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +51,7 @@
       <recent name="C:\Users\Piyush.Fale\go\src\awesomeProject\Sqrt" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build deferFuncEx.go">
+  <component name="RunManager" selected="Go Build.go build sliceing.go">
     <configuration name="go build asd.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="awesomeProject" />
       <working_directory value="$PROJECT_DIR$" />
@@ -81,15 +79,6 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build awesomeProject/SwitchEg" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="awesomeProject" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/SwitchEg/switchEx.go" />
-      <package value="awesomeProject/SwitchEg" />
-      <directory value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
     <configuration name="go build deferFuncEx.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="awesomeProject" />
       <working_directory value="$PROJECT_DIR$" />
@@ -99,13 +88,22 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
+    <configuration name="go build sliceing.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="awesomeProject" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/Sliceing/sliceing.go" />
+      <package value="awesomeProject" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build sliceing.go" />
         <item itemvalue="Go Build.go build deferFuncEx.go" />
         <item itemvalue="Go Build.go build awesomeProject/Defer" />
         <item itemvalue="Go Build.go build asd.go" />
         <item itemvalue="Go Build.go build awesomeProject/SwitchEg (1)" />
-        <item itemvalue="Go Build.go build awesomeProject/SwitchEg" />
       </list>
     </recent_temporary>
   </component>

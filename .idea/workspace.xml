@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="014ac707-923a-4597-aff9-a5169cffe3a6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/GenerateRandonNum.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloWorld/Sqrt.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="014ac707-923a-4597-aff9-a5169cffe3a6" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,10 +40,13 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Piyush.Fale\go\src\awesomeProject\GenerateRandomNumber" />
+      <recent name="C:\Users\Piyush.Fale\go\src\awesomeProject\Add" />
+      <recent name="C:\Users\Piyush.Fale\go\src\awesomeProject\Sqrt" />
       <recent name="C:\Users\Piyush.Fale\go\src\awesomeProject\HelloWorld" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build swap.go">
+  <component name="RunManager" selected="Go Build.go build variabletest.go">
     <configuration name="go build Sqrt.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="awesomeProject" />
       <working_directory value="$PROJECT_DIR$" />
@@ -62,15 +61,6 @@
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <filePath value="$PROJECT_DIR$/HelloWorld/add.go" />
-      <package value="awesomeProject" />
-      <directory value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build awesomeProject (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="awesomeProject" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/test2.go" />
       <package value="awesomeProject" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
@@ -93,13 +83,22 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
+    <configuration name="go build variabletest.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="awesomeProject" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/testVariable/variabletest.go" />
+      <package value="awesomeProject" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build variabletest.go" />
         <item itemvalue="Go Build.go build swap.go" />
         <item itemvalue="Go Build.go build add.go" />
         <item itemvalue="Go Build.go build Sqrt.go" />
         <item itemvalue="Go Build.go build awesomeProject/HelloWorld" />
-        <item itemvalue="Go Build.go build awesomeProject (1)" />
       </list>
     </recent_temporary>
   </component>

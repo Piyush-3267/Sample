@@ -13,8 +13,7 @@ func main() {
 	case "linux":
 		fmt.Println("Linux.")
 	default:
-		// freebsd, openbsd,
-		// plan9, windows...
+
 		fmt.Printf("%s.\n", os)
 	}
 }

@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="014ac707-923a-4597-aff9-a5169cffe3a6" name="Default Changelist" comment="" />
+    <list default="true" id="014ac707-923a-4597-aff9-a5169cffe3a6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Defer/DeferEg.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwitchEg/switchEx.go" beforeDir="false" afterPath="$PROJECT_DIR$/SwitchEg/switchEx.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,9 +29,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -40,66 +46,66 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Piyush.Fale\go\src\awesomeProject\Defer" />
       <recent name="C:\Users\Piyush.Fale\go\src\awesomeProject\Array example" />
       <recent name="C:\Users\Piyush.Fale\go\src\awesomeProject\GenerateRandomNumber" />
       <recent name="C:\Users\Piyush.Fale\go\src\awesomeProject\Add" />
       <recent name="C:\Users\Piyush.Fale\go\src\awesomeProject\Sqrt" />
-      <recent name="C:\Users\Piyush.Fale\go\src\awesomeProject\HelloWorld" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build awesomeProject/SwitchEg">
-    <configuration name="go build awesomeProject" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build deferFuncEx.go">
+    <configuration name="go build asd.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="awesomeProject" />
       <working_directory value="$PROJECT_DIR$" />
-      <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/array.go" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/SwitchEg/asd.go" />
       <package value="awesomeProject" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build awesomeProject/LoopExample" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build awesomeProject/Defer" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="awesomeProject" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/LoopExample/Loop.go" />
-      <package value="awesomeProject/LoopExample" />
+      <filePath value="$PROJECT_DIR$/Defer/deferFuncEx.go" />
+      <package value="awesomeProject/Defer" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build awesomeProject/SwitchEg (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="awesomeProject" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/SwitchEg/asd.go" />
+      <package value="awesomeProject/SwitchEg" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
     <configuration name="go build awesomeProject/SwitchEg" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="awesomeProject" />
       <working_directory value="$PROJECT_DIR$" />
-      <kind value="PACKAGE" />
+      <kind value="FILE" />
       <filePath value="$PROJECT_DIR$/SwitchEg/switchEx.go" />
       <package value="awesomeProject/SwitchEg" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build typeChange.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build deferFuncEx.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="awesomeProject" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/changeTypeofVariable/typeChange.go" />
-      <package value="awesomeProject" />
-      <directory value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build variabletest.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="awesomeProject" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/testVariable/variabletest.go" />
+      <filePath value="$PROJECT_DIR$/Defer/deferFuncEx.go" />
       <package value="awesomeProject" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build deferFuncEx.go" />
+        <item itemvalue="Go Build.go build awesomeProject/Defer" />
+        <item itemvalue="Go Build.go build asd.go" />
+        <item itemvalue="Go Build.go build awesomeProject/SwitchEg (1)" />
         <item itemvalue="Go Build.go build awesomeProject/SwitchEg" />
-        <item itemvalue="Go Build.go build awesomeProject/LoopExample" />
-        <item itemvalue="Go Build.go build typeChange.go" />
-        <item itemvalue="Go Build.go build awesomeProject" />
-        <item itemvalue="Go Build.go build variabletest.go" />
       </list>
     </recent_temporary>
   </component>

@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="014ac707-923a-4597-aff9-a5169cffe3a6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Goroutine/xzycv.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xyz/xzy.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo.go.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goroutine/goRoutine.go" beforeDir="false" afterPath="$PROJECT_DIR$/Goroutine/goRoutine.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +34,6 @@
     <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -52,7 +53,7 @@
       <recent name="C:\Users\Piyush.Fale\go\src\awesomeProject\Sqrt" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build goRoutine.go">
+  <component name="RunManager" selected="Go Build.go build awesomeProject/Goroutine (1)">
     <configuration name="go build DeferEg.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="awesomeProject" />
       <working_directory value="$PROJECT_DIR$" />
@@ -62,21 +63,21 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build awesomeProject/Defer" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build awesomeProject/Goroutine (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="awesomeProject" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/Defer/deferFuncEx.go" />
-      <package value="awesomeProject/Defer" />
+      <filePath value="$PROJECT_DIR$/Goroutine/eg2.go" />
+      <package value="awesomeProject/Goroutine" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build deferFuncEx.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build awesomeProject/Goroutine" type="GoApplicationRunConfiguration" factoryName="Go Application" singleton="false" temporary="true" nameIsGenerated="true">
       <module name="awesomeProject" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Defer/deferFuncEx.go" />
-      <package value="awesomeProject" />
+      <filePath value="$PROJECT_DIR$/Goroutine/ex2.go" />
+      <package value="awesomeProject/Goroutine" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -89,22 +90,22 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build sliceing.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build xzy.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="awesomeProject" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Sliceing/sliceing.go" />
+      <filePath value="$PROJECT_DIR$/xyz/xzy.go" />
       <package value="awesomeProject" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build goRoutine.go" />
+        <item itemvalue="Go Build.go build awesomeProject/Goroutine (1)" />
+        <item itemvalue="Go Build.go build xzy.go" />
+        <item itemvalue="Go Build.go build awesomeProject/Goroutine" />
         <item itemvalue="Go Build.go build DeferEg.go" />
-        <item itemvalue="Go Build.go build sliceing.go" />
-        <item itemvalue="Go Build.go build deferFuncEx.go" />
-        <item itemvalue="Go Build.go build awesomeProject/Defer" />
+        <item itemvalue="Go Build.go build goRoutine.go" />
       </list>
     </recent_temporary>
   </component>
@@ -114,6 +115,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="performed first time goroutine" />
+    <MESSAGE value="performed 2nd time goroutine" />
+    <option name="LAST_COMMIT_MESSAGE" value="performed 2nd time goroutine" />
   </component>
 </project>
